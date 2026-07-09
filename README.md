@@ -60,7 +60,7 @@ Start small and stay consistent. Build, break, learn, repeat.
   <a href="mailto:timsinasakshyam083@gmail.com">
     <img src="https://img.shields.io/badge/Email-timsinasakshyam083%40gmail.com-e34c26?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="#">
+  <a href="Got banned">
     <img src="https://img.shields.io/badge/LinkedIn-Add%20your%20profile%20link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
