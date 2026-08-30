@@ -1,39 +1,73 @@
-# Sakshyam Timsina
+<div align="center">
 
-Computer Engineering student at Kathmandu University, Nepal — first year, and building from the ground up.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Sakshyam%20Timsina&fontSize=42&fontColor=e8e8e8&fontAlignY=40&animation=fadeIn&desc=Computer%20Engineering%20Student%20%7C%20Kathmandu%20University&descAlignY=58&descSize=16&descColor=8a8fa3" />
 
-I'm spending this year getting comfortable with how computers actually work: memory, architecture, the operating system layer, and the languages closest to the machine. Most of what I build right now is small on purpose — the goal is depth, not breadth.
+</div>
+
+<br>
+
+### About
+
+I'm a first-year Computer Engineering student at Kathmandu University, Nepal, spending this year building real fundamentals instead of rushing to frameworks.
+
+Right now that means:
+
+- Writing **C** and **C++** until pointers, memory, and low-level behavior stop feeling like a black box
+- Picking up **Python** for the things systems languages make tedious
+- Reading into how operating systems actually schedule, allocate, and protect memory
+- Working through data structures and algorithms slowly, on purpose
+
+I'd rather be solid at fundamentals than fast at frameworks. That trade-off is deliberate.
+
+<br>
+
+### Tools I actually use
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,py,git,linux,vscode&theme=dark" />
+
+</div>
+
+<br>
+
+### Where my attention goes
+
+| Area | What I'm doing there |
+|---|---|
+| Systems & OS | Understanding memory, processes, and scheduling from the inside out |
+| Core software dev | Building small, working tools rather than half-finished big ones |
+| Algorithms | Solving problems by hand before reaching for a library |
+| New languages/tools | Picked up as needed, not collected for their own sake |
+
+<br>
+
+<div align="center">
+
+> "First, solve the problem. Then, write the code."
+
+</div>
+
+<br>
+
+### Notes to self
+
+- Start small, stay consistent
+- Every expert was once a beginner
+- Build, break, learn, repeat
+
+<br>
 
 ---
 
-## Currently
+<div align="center">
 
-- Writing C and C++ daily to get fundamentals genuinely solid, not just passable
-- Picking up Python for the things C makes tedious
-- Reading into computer architecture and OS internals alongside coursework
-- Working through data structures and algorithms methodically, not just for interviews
+**Reach me**
 
-## Stack
+[![Email](https://img.shields.io/badge/-timsinasakshyam083%40gmail.com-1a1a2e?style=flat-square&logo=gmail&logoColor=e8e8e8)](mailto:timsinasakshyam083@gmail.com)
 
-`C` · `C++` · `Python` · `Git` · `Linux` · `VS Code`
+<sub>Kathmandu, Nepal · growing one commit at a time</sub>
 
-## What I care about
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" />
 
-I'd rather understand *why* something works than memorize that it does. That's slower early on, but it's the only way anything sticks. Most of my repos right now are small, deliberate — a systems experiment, a DSA solution, a tool I needed and didn't want to keep doing by hand.
-
-## Notes
-
-<details>
-<summary>Reading list / things I keep coming back to</summary>
-
-- Operating system concepts and how processes, memory, and scheduling actually fit together
-- Low-level C — pointers, memory layout, manual memory management
-- Algorithmic problem solving, worked slowly rather than rushed
-
-</details>
-
----
-
-**Reach me:** [timsinasakshyam083@gmail.com](mailto:timsinasakshyam083@gmail.com)
-
-<sub>Kathmandu, Nepal</sub>
+</div>
