@@ -8,7 +8,7 @@
 
 ### About
 
-I'm a first-year Computer Engineering student at Kathmandu University, Nepal, spending this year building real fundamentals instead of rushing to frameworks.
+I'm a second-year Computer Engineering student at Kathmandu University, Nepal, spending this year building real fundamentals instead of rushing to frameworks.
 
 Right now that means:
 
